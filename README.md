@@ -8,7 +8,7 @@ This is a machine learning exploration app made using the Dash interactive Pytho
 ## Getting Started
 ### Using the demo
 
-1) You can upload the labeled dataset (example dataset can be doung in data folder) in a dataframe format for binary classification.
+1) You can upload the labeled dataset (example dataset can be found in data folder) in a dataframe format for binary classification.
 2) Select target variable based on your dataset
 3) Choose a feature selection/dimensionality reduction method
 4) Choose classification model
